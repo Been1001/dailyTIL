@@ -1,0 +1,20 @@
+.talk-icon {
+  width: 100px;
+  height: 100px;
+  background: url("../img/kakao-logo.jpg");
+  background-size: contain;
+  margin-top: 20px;
+  position: relative;
+}
+
+.circle-number {
+  width: 30px;
+  height: 30px;
+  background-color: #F15442;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  position: absolute;
+  right: -10px;
+  top: -10px
+}
